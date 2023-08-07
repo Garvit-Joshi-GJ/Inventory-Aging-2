@@ -11,12 +11,7 @@
 * @param{runtime} runtime
 * @param{search} search
 */
-<<<<<<< HEAD
-// commit 3: from root folder
-=======
-
-// Adding comment to check first commit test
->>>>>>> 3c154c74f33493b85add1d663b7f65ac8a7df930
+// commit 3: from root folder test
  (encode, file, format, record, runtime, search) => {
      /**
       * Defines the function that is executed at the beginning of the map/reduce process and generates the input data.
