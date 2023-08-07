@@ -11,7 +11,7 @@
 * @param{runtime} runtime
 * @param{search} search
 */
-
+// commit 3: from root folder
  (encode, file, format, record, runtime, search) => {
      /**
       * Defines the function that is executed at the beginning of the map/reduce process and generates the input data.
