@@ -12,6 +12,7 @@
 * @param{search} search
 */
 
+// Adding comment to check first commit
  (encode, file, format, record, runtime, search) => {
      /**
       * Defines the function that is executed at the beginning of the map/reduce process and generates the input data.
